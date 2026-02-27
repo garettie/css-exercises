@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+  background: #ff8282;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#lil {
+  color: #6495ef;
+  font-size: 36px;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#lay {
+  background: #98fb98;
+  font-size: 24px;
+  font-weight: bold;
+}
